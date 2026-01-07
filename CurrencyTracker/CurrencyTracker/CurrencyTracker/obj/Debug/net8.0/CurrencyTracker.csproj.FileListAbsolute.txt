@@ -1,0 +1,14 @@
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.exe
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.deps.json
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.runtimeconfig.json
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\bin\Debug\net8.0\CurrencyTracker.pdb
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.AssemblyInfoInputs.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.AssemblyInfo.cs
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.csproj.CoreCompileInputs.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\refint\CurrencyTracker.dll
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.pdb
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\CurrencyTracker.genruntimeconfig.cache
+C:\Users\Emrsh\OneDrive\Ekler\Masaüstü\CurrencyTracker\CurrencyTracker\CurrencyTracker\obj\Debug\net8.0\ref\CurrencyTracker.dll
